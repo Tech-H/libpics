@@ -1,5 +1,7 @@
-# Photos
-Photos is the home for all my photos and easy to view.
+# AREA44 Photos
+
+`AREA44 Photos` is the home for photos.
 
 ## LICENSE
-[MIT](LICENSE.md)
+
+Licensed under the [MIT](LICENSE.md) license.
