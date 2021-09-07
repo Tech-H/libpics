@@ -1,7 +1,7 @@
-# AREA44 Photos
+# Photos
 
-`AREA44 Photos` is the home for photos.
+The home for photos.
 
-## LICENSE
+## License
 
 Licensed under the [MIT](LICENSE.md) license.
